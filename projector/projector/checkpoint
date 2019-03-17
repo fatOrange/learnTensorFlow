@@ -1,0 +1,2 @@
+model_checkpoint_path: "E:\\\345\267\245\344\275\234\346\226\207\344\273\266\\CODE\\LearnTF\\projector/projector/a_model.ckpt-1001"
+all_model_checkpoint_paths: "E:\\\345\267\245\344\275\234\346\226\207\344\273\266\\CODE\\LearnTF\\projector/projector/a_model.ckpt-1001"
